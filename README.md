@@ -42,6 +42,34 @@ A cross-substrate structural invariant — seven components governed by a quadra
 3. **Supplementary Material** — full derivations, all equations, experimental protocols
 4. **Companion Document** — philosophical and linguistic context (optional, does not affect physics)
 
+---
+
+## ∅-NET Phase 1: Sixth Instantiation (Engineered)
+
+[![Phase 1](https://img.shields.io/badge/Phase%201-%E2%88%85--NET-darkblue)](phase1/)
+![Date](https://img.shields.io/badge/Date-March%202026-blue)
+
+The parent manuscript identifies Δ(Δ₁∅Δ₂) across five physical substrates (found in nature/devices). **∅-NET Phase 1** is the sixth instantiation — the first constructed by design: a VQ-VAE neural network architecture where all seven structural components are explicitly engineered.
+
+**Structural claim:** If Δ(Δ₁∅Δ₂) is a genuine invariant, it must be instantiatable by construction. The neural network is the test case.
+
+### Phase 1 Contents (`phase1/`)
+
+| File | Description |
+|------|-------------|
+| [`VACANCY_NET_Phase1_Technical_Report.md`](phase1/VACANCY_NET_Phase1_Technical_Report.md) | Full technical report and structural proof-of-concept |
+| [`VACANCY_NET_Phase1_Technical_Report.pdf`](phase1/VACANCY_NET_Phase1_Technical_Report.pdf) | PDF version |
+| [`micro_poc.py`](phase1/micro_poc.py) | Micro proof-of-concept — all 9 modules, synthetic data, CPU-only (~2 min) |
+
+### Phase 1 Key Results
+
+- Nine modules instantiate the three structural types: neural (encoder/decoder), structural (∅_sg, remainder accumulator, syntone, replicant protocol, delta observer, initializer), standard (gradient engine)
+- Codebook cardinality K self-governs without external intervention: K: 16 → 17 → 19
+- Autonomous restructuring events (⟳) triggered by remainder accumulation
+- Micro PoC on synthetic data: all 9 modules operationally connected and verified
+
+**Open:** Full validation on CIFAR-10 with predictions N.7–N.14 remains to be done.
+
 ## Key Claims
 
 The framework identifies three discrete invariants that hold across five substrates:
